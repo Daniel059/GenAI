@@ -46,4 +46,4 @@ The application will then prompt you for the text you want to translate.
 
 ### 🖥️ Example Output
 
-![Example of running the translator in the terminal.](image_090500.png)
+![Example of running the translator in the terminal.](output.png)
